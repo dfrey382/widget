@@ -1,16 +1,16 @@
 {
-  "name": "pingpong/widget",
-  "description": "Simple Widget System for Laravel Framework",
+  "name": "dsc/widget",
+  "description": "Simple Widget System for Laravel Framework 5.8",
   "keywords": [
     "widget",
     "laravel",
-    "pingpong"
+    "dsc"
   ],
   "license": "MIT",
   "authors": [
     {
-      "name": "Pingpong Labs",
-      "email": "pingpong.labs@gmail.com"
+      "name": "Dsc Creatives",
+      "email": "fredrickboaz@gmail.com"
     }
   ],
   "require": {
