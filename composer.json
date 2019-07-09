@@ -1,10 +1,10 @@
 {
-  "name": "dsc/widget",
+  "name": "dscreatives/widget",
   "description": "Simple Widget System for Laravel Framework 5.8",
   "keywords": [
     "widget",
     "laravel",
-    "dsc"
+    "dsc creatives"
   ],
   "license": "MIT",
   "authors": [
